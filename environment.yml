@@ -7,3 +7,6 @@ dependencies:
   - svgutils
   - kwant==1.4.*
   - ipynb
+  - pip
+  - pip:
+    - latex
