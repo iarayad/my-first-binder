@@ -2,6 +2,7 @@ name: quadrupole
 channels:
   - conda-forge
 dependencies:
-  - python=3.9.7
+  - python==3.9
+  - jupytext
   - svgutils
-  - kwant=1.4.2
+  - kwant==1.4
