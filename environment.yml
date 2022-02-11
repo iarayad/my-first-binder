@@ -6,8 +6,6 @@ dependencies:
   - jupytext
   - svgutils
   - kwant==1.4.*
-  - ghostscript>=9.0
   - pip
   - pip:
-    - latex
     - ipynb
