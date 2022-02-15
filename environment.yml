@@ -6,6 +6,3 @@ dependencies:
   - jupytext
   - svgutils
   - kwant==1.4.*
-  - pip
-  - pip:
-    - ipynb
